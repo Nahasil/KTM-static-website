@@ -1,0 +1,117 @@
+.main-image
+{
+    background-image: url(waw22-header.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+    display: flex;
+}
+.header-tag {
+    display: flex;
+    font-size: 60px;
+    color: #fff;
+    padding-left: 140px;
+}
+.header-tag h3
+{
+    padding: 60px;
+    padding-left: 60px;
+    padding-top: 120px;
+}
+.header-tag h3:hover
+{
+    cursor: pointer;
+}
+
+body{
+    margin:0%;
+
+}
+img.ktm-img{
+    height: 588px;
+    width: 650px;
+    padding-left: 251%;
+}
+.ktm-logo {
+    position: absolute;
+    padding-left: 44%;
+}
+button
+{
+    background: #ff7600;
+    color: #fff;
+    width: 100%;
+    height: 200px;
+    font-size: 59px;
+    margin-top: 40px;
+}
+button:hover{
+    background: none;
+    color: #ff7600;
+    cursor: pointer;
+}
+.main-img-button {
+    margin-top: 130%;
+    margin-right: 81px;
+    padding-right: 54px;
+}
+.grid-image {
+    display: flex;
+    padding: 77px;
+    padding-left: 160px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+img {
+    width: 80%;
+}
+h4 {
+     font-size: 75px;
+    padding-left: 70px;
+}
+h1 {
+    font-size: 100px;
+}
+h6 {
+    font-size: 55px;
+}
+p {
+    font-size: 55px;
+}
+.bottom {
+    width: 100%;
+    float: right;
+    background-color: rgb(11, 12, 11);
+    height: 1746px;
+    position: absolute;
+    display: flex;
+}
+.bottom-image
+{
+    width: 49%;
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+}
+h1 {
+    font-size: 150px;
+    color: #fff;;
+}
+.signup
+{
+        width: 100%;
+        display: flex;
+        background-color: #fff;
+        height: 800px;
+        margin-top: 39%;
+        color: black;
+        padding: 380px;
+    padding-left: 441px;
+}
+    
+    .signup button
+    {
+        width: 390px;
+        margin-left: 219px;
+    }
+    
